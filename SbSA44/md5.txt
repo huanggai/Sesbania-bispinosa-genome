@@ -1,0 +1,4 @@
+48ca3b8ced36f298a2a3b1d0623dfad0  SbSA44_YS06044.all.maker.rename_gene.gff3.gz
+9dffa3c31921e6ee38b1839bb8e40281  SbSA44_YS06044.genome.fa.size.txt
+5b6755e3d14ccc1b2e751bdea52b7f0c  SbSA44_YS06044.longest_cds.fa.gz
+dae200c8cc1396c565a7604b93f756a0  SbSA44_YS06044.longest_pep.fa.gz
