@@ -1,0 +1,6 @@
+13d2774abf515e0a08fed2a106cb9424  chr1.fa.gz
+3854a90ab49d69120953560fb693c32f  chr2.fa.gz
+9b7a64245cbef5ac97d7b11bc0dfa5f4  chr3.fa.gz
+fba892cda0adbdf5f5edc76931f11f7e  chr4.fa.gz
+ef50e0517cd4bcaa180101aa9f402a73  chr5.fa.gz
+9d26b785517652fd4d56016b28a35e52  chr6.fa.gz

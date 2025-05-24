@@ -1,0 +1,4 @@
+420c801ad98f86b24ae322512778b175  SbTA02_YS06002.all.maker.rename_gene.gff3.gz
+4c2c493e7a50ff110e0bb310005f35fc  SbTA02_YS06002.genome.fa.size.txt
+5b33b6782a9465ca2ba508c4e9265304  SbTA02_YS06002.longest_cds.fa.gz
+f089f2a39ca7a8b6cf0997bac8f3e1f6  SbTA02_YS06002.longest_pep.fa.gz
